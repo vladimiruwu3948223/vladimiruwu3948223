@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on **Wind**
 - 🌱 I’m currently learning **About Linux**
 - 👯 I’m looking to collaborate on **discord app`s**
+
 <h3 align="left">Contact:</h3>
 - Discord: vladimituwu3948223 (after update) 
 
